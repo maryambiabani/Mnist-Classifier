@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="788e7992-709b-43b4-a4a3-dc2716021cba" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MNISTj48.model" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MNISTnaiveBayes.model" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data.arff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mnistVector.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aiModel/mnistWithJ48.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aiModel/mnistWithNaiveBayes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/preProcess/MnistPreProcess1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/preProcess/MnistPreProcess2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/preProcess/MnistPreProcess3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/aiModel/mnistWithJ48.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/aiModel/mnistWithNaiveBayes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/preProcess/MnistPreProcess1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/preProcess/MnistPreProcess2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/preProcess/MnistPreProcess3.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IuGx2nepMOmwXt8mlim080sbP9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\gitArchive\mnistClassification" />
+      <recent name="D:\gitArchive\mnistClassification\src\main\java\preProcess" />
+      <recent name="D:\gitArchive\mnistClassification\src\main\java\aiModel" />
+      <recent name="D:\gitArchive\mnistClassification\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.mnistWithNaiveBayes">
+    <configuration name="MnistPreProcess3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="preProcess.MnistPreProcess3" />
+      <module name="mnistClassification" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="preProcess.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mnistWithJ48" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aiModel.mnistWithJ48" />
+      <module name="mnistClassification" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aiModel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mnistWithNaiveBayes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aiModel.mnistWithNaiveBayes" />
+      <module name="mnistClassification" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aiModel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.mnistWithNaiveBayes" />
+        <item itemvalue="Application.MnistPreProcess3" />
+        <item itemvalue="Application.mnistWithJ48" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="788e7992-709b-43b4-a4a3-dc2716021cba" name="Changes" comment="" />
+      <created>1671024301168</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671024301168</updated>
+      <workItem from="1671024302817" duration="3655000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
